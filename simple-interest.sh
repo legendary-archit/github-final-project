@@ -1,0 +1,5 @@
+https://github.com/legendary-archit/github-final-project/blob/main/README.md
+https://github.com/legendary-archit/github-final-project/blob/main/LICENSE
+https://github.com/legendary-archit/github-final-project/blob/main/CODE_OF_CONDUCT.md
+https://github.com/legendary-archit/github-final-project/blob/main/CONTRIBUTING.md
+https://github.com/legendary-archit/github-final-project/blob/main/simple-interest.sh
